@@ -51,3 +51,4 @@ class Solution:
             else:
                 return False
         return counter == 0
+    
