@@ -1,15 +1,14 @@
-// # Given a string s, return the length of the longest palindromic substring.
+//  Given a string s, return the length of the longest palindromic substring.
 
-// # Constraints
-
-// # n ≤ 1,000 where n is the length of s
-// # Example 1
-// # Input
-// # s = "mactacocatbook"
-// # Output
-// # 7
-// # Explanation
-// # "tacocat" in the middle is the longest palindromic substring.
+//  Constraints
+//  n ≤ 1,000 where n is the length of s
+//  Example 1
+//  Input
+//  s = "mactacocatbook"
+//  Output
+//  7
+//  Explanation
+//  "tacocat" in the middle is the longest palindromic substring.
 
 import java.util.*;
 
